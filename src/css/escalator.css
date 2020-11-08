@@ -1,0 +1,36 @@
+/* Escalator */
+.container-escalator {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url('../img/mountain.jpg');
+  height: 700px;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: 'poppins';
+}
+
+.container-escalator p {
+  font-size: 30px;
+  color: white;
+}
+.container-escalator h1 {
+  font-size: 5rem;
+  margin: 50px;
+  text-align: center;
+  color: white;
+}
+
+.container-escalator button {
+  margin: 50px;
+  width: 250px;
+  height: 60px;
+  color: black;
+  font-weight: bold;
+  background-color: white;
+}
+
+.two-mountain {
+  width: 7%;
+  margin-top: 80px;
+}
