@@ -3,15 +3,18 @@
   width: 100%;
   display: flex;
   font-family: 'poppins';
+  margin-bottom: 50px;
 }
 
 .container-category h3 {
   color: white;
+  font-weight: 600;
   font-size: 3.5rem;
 }
 
 .container-category p {
   color: white;
+  font-weight: 500;
   font-size: 1.4rem;
 }
 
@@ -52,7 +55,7 @@
 }
 
 .container-nature h3 {
-  margin: 23px 0 10px 23px;
+  margin: 30px 0 10px 23px;
 }
 
 .container-nature p {
@@ -69,6 +72,8 @@
 }
 
 .together {
+  display: flex;
+  flex-direction: column;
   width: 100%;
   background-image: url('../img/together.jpg');
   background-size: 100%;
@@ -76,8 +81,13 @@
   background-repeat: no-repeat;
   height: 400px;
 }
-.tog-items {
-  margin-top: 60px;
+
+.together h3 {
+  margin: 160px 0 10px 23px;
+}
+
+.together p {
+  margin-left: 23px;
 }
 
 .container-analy {
@@ -88,11 +98,22 @@
 
 .analysis {
   width: 73%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
   background-image: url('../img/car.jpg');
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
   height: 400px;
+}
+
+.analysis h3 {
+  margin: 30px 23px 10px 0;
+}
+
+.analysis p {
+  margin-right: 23px;
 }
 
 .pictures {
@@ -102,4 +123,12 @@
   background-position: center;
   background-repeat: no-repeat;
   height: 400px;
+}
+
+.pictures h3 {
+  margin: 30px 0 10px 23px;
+}
+
+.pictures p {
+  margin-left: 23px;
 }

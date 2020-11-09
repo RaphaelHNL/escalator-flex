@@ -21,13 +21,25 @@
   color: white;
 }
 
-.container-escalator button {
-  margin: 50px;
-  width: 250px;
-  height: 60px;
-  color: black;
-  font-weight: bold;
+.container-escalator a {
   background-color: white;
+  display: inline-block;
+  font-weight: 500;
+  cursor: pointer;
+  color: #353435;
+  font-size: 20px;
+  padding: 21px 6%;
+  text-decoration: none;
+  margin-top: 20px;
+}
+
+.container-escalator a:active {
+  position: relative;
+  top: 1px;
+}
+
+.container-escalator button:hover {
+  border: none;
 }
 
 .two-mountain {
