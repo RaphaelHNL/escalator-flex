@@ -14,4 +14,4 @@ Um teste passado pela Codeby, para desenvolvimento de um site baseado no layout 
 
 ## Como executar o projeto
 <p>Faça o download do código, e abre o arquivo index.html em algum navegador de sua preferência.</p>
-Ou acesse o site atravês desse [Link](https://raphaelhnl.github.io/escalator-flex/index).
+Ou acesse o site atravês desse <a href="https://raphaelhnl.github.io/escalator-flex/index">link</a>.
