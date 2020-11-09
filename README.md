@@ -10,7 +10,7 @@ Um teste passado pela Codeby, para desenvolvimento de um site baseado no layout 
 * Grid Layout
 
 ## Objetivo
-* CSS FlexBox
+* Utilizar CSS FlexBox
 
 ## Como executar o projeto
 <p>Faça o download do código, e abre o arquivo index.html em algum navegador de sua preferência.</p>
